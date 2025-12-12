@@ -14,4 +14,4 @@ Three interacting layers bootstrap complexity:
 
 The system selects functional structures through energy flux maximization, eliminating need for fine-tuned parameters.
 
-## 🏗️ Repository Structure
+
