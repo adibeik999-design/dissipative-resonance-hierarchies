@@ -1,0 +1,66 @@
+@article{prigogine1977,
+  title={Self-Organization in Nonequilibrium Systems},
+  author={Prigogine, I.},
+  year={1977},
+  publisher={Wiley}
+}
+@book{wicken1987,
+  title={Evolution, Thermodynamics, and Information},
+  author={Wicken, J.},
+  year={1987},
+  publisher={Oxford Univ. Press}
+}
+@article{england2013,
+  title={Statistical physics of self-replication},
+  author={England, Jeremy L.},
+  journal={The Journal of Chemical Physics},
+  volume={139},
+  number={12},
+  pages={121923},
+  year={2013}
+}
+@article{aranson2002,
+  title={The world of the complex Ginzburg-Landau equation},
+  author={Aranson, I. S. and Kramer, L.},
+  journal={Reviews of Modern Physics},
+  volume={74},
+  number={1},
+  pages={99},
+  year={2002}
+}
+@article{kauffman1986,
+  title={Autocatalytic sets of proteins},
+  author={Kauffman, S. A.},
+  journal={Journal of Theoretical Biology},
+  volume={119},
+  number={1},
+  pages={1--24},
+  year={1986}
+}
+@article{rao1999,
+  title={Predictive coding in the visual cortex},
+  author={Rao, R. P. and Ballard, D. H.},
+  journal={Nature Neuroscience},
+  volume={2},
+  number={1},
+  pages={79--87},
+  year={1999}
+}
+@article{friston2010,
+  title={The free-energy principle},
+  author={Friston, K.},
+  journal={Nature Reviews Neuroscience},
+  volume={11},
+  number={2},
+  pages={127--138},
+  year={2010}
+}
+@article{conant1970,
+  title={Every good regulator of a system must be a model of that system},
+  author={Conant, R. C. and Ashby, W. R.},
+  journal={International Journal of Systems Science},
+  volume={1},
+  number={2},
+  pages={89--97},
+  year={1970}
+}
